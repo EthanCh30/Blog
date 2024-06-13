@@ -13,7 +13,5 @@ module.exports = {
         ],
 
         sidebar: 'auto'
-    }
-
-
+    },
 }
