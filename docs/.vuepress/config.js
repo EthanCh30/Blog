@@ -1,6 +1,9 @@
 module.exports = {
     title: '伊のBlog',
     description: 'Just playing around',
+    head: [
+        // 站点图标
+        ["link", { rel: "icon", href: "/logo.svg" }]],
 
     themeConfig: {
         nav: [
